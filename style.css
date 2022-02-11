@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans&display=swap');
+
+.menu nav{
+    /* background-color: black; */
+    display: flex;
+    padding-left: 33%;
+     
+}
+a{
+    color:white;
+  cursor: pointer;
+  /* font-family: 'Bebas Neue', cursive; */
+  font-family: 'Josefin Sans', sans-serif;
+  
+}
+hr{
+  border:2px solid white;
+  margin-top:-12px;
+  margin-left:380px;
+  
+}
+.bg{
+ 
+   background-image: url("burger01.jpg"); 
+  /* background-color:black; */
+}
